@@ -26,8 +26,8 @@ dev = [
 
 [project]
 name = "llama-index-tools-chronoverify"
-version = "0.1.0"
-description = "llama-index tools chronoverify integration"
+version = "0.1.1"
+description = "LlamaIndex tool for ChronoVerify: verify when a photo was taken and its provenance (C2PA Content Credentials, EXIF, pixel forensics)."
 authors = [{name = "ChronoVerify", email = "support@chronoverify.com"}]
 requires-python = ">=3.10,<4.0"
 readme = "README.md"
